@@ -1,0 +1,23 @@
+h1 {
+  color: blueviolet;
+  border: tomato solid;
+  text-align: center;
+}
+/* *{
+   border:solid
+} */
+.header {
+  background-color: rgb(216, 111, 25);
+  display: flex;
+  justify-content: space-evenly;
+  font-size: larger;
+}
+.Img {
+  /* background-image: url("bg.jpg"); */
+  background-color: rgb(45, 221, 39);
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
